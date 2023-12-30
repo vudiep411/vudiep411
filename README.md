@@ -12,5 +12,8 @@ let Object = {
 },
 }
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vudiep411&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <h3 style="font-weight:bold">📫 Contact</h3>
 <a href="mailto:vudiep411@gmail.com">vudiep411@gmail.com</a>
